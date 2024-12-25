@@ -39,6 +39,10 @@ xcuserdata/
 *.xcscmblueprint
 *.xccheckout
 
+## Tuist
+*.xcodeproj
+*.xcworkspace
+
 ### Xcode Patch ###
 *.xcodeproj/*
 !*.xcodeproj/project.pbxproj
@@ -48,3 +52,6 @@ xcuserdata/
 /*.gcno
 **/xcshareddata/WorkspaceSettings.xcsettings
 
+
+### Tuist ###
+Derived/
